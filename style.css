@@ -1,4 +1,36 @@
+body{
+    font-family: 'Arimo', sans-serif;
+    margin: 0;
+    
+}
+h1{
+    font-size: 45px;
+}
+.heaf-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.flexeble-are{
+    display: flex;
+}
 
-p{
-    color: red;
+.heaf-width img{
+    width: 90%;
+
+}
+
+a{
+    text-decoration: none;
+    background-image:linear-gradient(aqua, #4fd4bb);
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.coloer{
+    color: rgb(219, 85, 85);
+}
+
+.containar_main{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: -27px -123px;
 }
